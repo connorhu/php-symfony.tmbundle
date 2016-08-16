@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>content</key>
 	<string>&lt;trans-unit id="$1"&gt;
-  &lt;source&gt;${2:$TM_SELECTED_TEXT}&lt;/source&gt;
-  &lt;target&gt;$0&lt;/target&gt;
+	&lt;source&gt;${2:$TM_SELECTED_TEXT}&lt;/source&gt;
+	&lt;target&gt;$0&lt;/target&gt;
 &lt;/trans-unit&gt;
 </string>
 	<key>keyEquivalent</key>
