@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>include_partial</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.php</string>
 	<key>tabTrigger</key>
 	<string>include_partial</string>
 	<key>uuid</key>

@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>if</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.php</string>
 	<key>tabTrigger</key>
 	<string>tif</string>
 	<key>uuid</key>

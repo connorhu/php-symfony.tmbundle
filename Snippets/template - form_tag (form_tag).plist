@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>form_tag</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.php</string>
 	<key>tabTrigger</key>
 	<string>form_tag</string>
 	<key>uuid</key>
